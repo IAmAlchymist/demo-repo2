@@ -12,4 +12,4 @@ one more test.
 
 ## Subheader
 
-Added one more to test flow to save, add, commit and push.
+Added one more line to test the flow of commands, Order is; save, add, commit and push.
